@@ -22,9 +22,9 @@ Started a trend of other people buying dumb domain names with the TLD `.monster`
 
 [Source](https://github.com/bigratmonster/chroma/) | [Website v1](https://chroma.bigrat.monster/) (GIF) | [Website v2](https://chroma.bigrat.monster/hue/) (JS) | [Website v3](https://chroma.snorlax.sh/) (Svelte, [Source](https://github.com/EmeraldSnorlax/svelterat.monster/))
 
-⚠ WARNING: Rapidly changing colours and flashing!
+⚠ WARNING: Rapidly changing colors and flashing!
 
-A colour-changing version of the big rat.  
+A color-changing version of the big rat.  
 v1 contains a pre-generated GIF, while v2 (also know as `hue`) applies the filter in real time.
 
 ### splashtexts
