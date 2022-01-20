@@ -20,7 +20,7 @@ Started a trend of other people buying dumb domain names with the TLD `.monster`
 
 > red green blue
 
-[Source](https://github.com/bigratmonster/chroma/) | [Website v1](https://chroma.bigrat.monster/) (GIF) | [Website v2](https://chroma.bigrat.monster/hue/) (JS) | ~~Website v3~~ (Unavailable, Svelte, [Source](https://github.com/EmeraldSnorlax/svelterat.monster/))
+[Source](https://github.com/bigratmonster/chroma/) | [Website v1](https://chroma.bigrat.monster/) (GIF) | [Website v2](https://chroma.bigrat.monster/hue/) (JS) | [Website v3](https://rat.snorlax.sh/) (Svelte, [Source](https://github.com/EmeraldSnorlax/svelterat.monster/))
 
 ⚠ WARNING: Rapidly changing colours and flashing!
 
