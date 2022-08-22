@@ -26,13 +26,3 @@ Started a trend of other people buying dumb domain names with the TLD `.monster`
 
 A colour-changing version of the big rat.  
 v1 contains a pre-generated GIF, while v2 (also known as `hue`) and v3 (by [@EmeraldSnorlax](https://github.com/EmeraldSnorlax/)) apply the filter in real time.
-
-
-### splashtexts
-
-> **Warning**  
-> Contains questionable content!
-
-[Source](https://github.com/bigratmonster/splashtexts/) | [Download](https://github.com/bigratmonster/splashtexts/releases/latest/) | [Website](https://splash.bigrat.monster/) (redirects to GitHub Releases) | [Website Source](https://github.com/bigratmonster/splashtexts/tree/website/)
-
-A Minecraft resource pack containing **pretty concerning quotes** from a couple Discord chats, shown as splash texts on the Minecraft Title Screen.
